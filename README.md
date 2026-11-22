@@ -24,6 +24,12 @@ Temperature is in °C by default (°F if `to_F = TRUE`).
 Outputs:
 - `zcta_rh_temp_stats.csv`
 - `zcta_rh_temp_stats.xlsx`
+
+## Example output
+
+![Bivariate map](images/zcta_bivariate_map.png)
+
+*Each ZCTA is colored by its tercile of typical hot-day temperature (x) and typical dry-afternoon humidity (y).*
   
 ## Data sources
  
